@@ -4,12 +4,17 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+	-This the way to tell Git to track your files.  A prvious stage to commint and have a snapshop os that files in a specific time.
+	- you can turn back to directory area a files before to do the commint, to send the file to the Git repository.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	-try to compare
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+	--added
 
 How do the diagrams help you visualize the branch structure?
 

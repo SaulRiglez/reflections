@@ -1,0 +1,88 @@
+45118309314
+
+
+
+Location.
+
+geo coding.
+
+-coordiantes coding. 
+-atitud
+-altife give the addres.
+-add a marker
+-Velocidad
+
+
+
+
+
+
+
+draw in the mp.
+
+location management.
+get an aplication to has ma
+
+
+Proyect:
+
+Actiivy fragments ,, 
+cloud,
+
+Recepits, upload fotos, ingredientes, authentacions.
+
+
+inventory,  
+
+
+collector of stamps.
+
+
+login, authenticate.
+
+
+-: Async Task: 
+
+textview y botton
+
+
+
+-: Broadcast Receiver tomorrow.
+Local broadcastmanager.
+
+Async task loader:  example homework,,,,,, Async 
+
+7 100
+1  x
+
+
+A Practical Guide to Material Design Implementation for Android Developers
+
+
+public class MyReceiver extends BroadcastReceiver {
+    @Override
+    public void onReceive(Context context, Intent intent) {
+        Toast.makeText(context, intent.getStringExtra("K"), Toast.LENGTH_SHORT).show();
+        Intent i = new Intent(context, MainActivity.class);
+        i.putExtra("Key", intent.getStringExtra("K"));
+       
+        context.startActivity(i);
+    }
+}
+
+
+Location Setvices
+
+Sensor Overview
+Static Activities
+
+
+
+
+
+
+
+
+
+
+
